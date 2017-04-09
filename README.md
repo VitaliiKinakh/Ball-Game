@@ -1,2 +1,2 @@
 # Ball-Game
-<h1>Simple ball game using pygame</h1>
+<h1>Simple ball game using tkinter</h1>
